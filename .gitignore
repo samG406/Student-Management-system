@@ -1,37 +1,17 @@
-# Build directory
-build/
 
 # Compiled Object files
 *.o
 *.obj
 *.exe
 
-# Precompiled Headers
-*.gch
-*.pch
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
 
 # Executables
 *.exe
-*.out
-*.app
+
 
 # IDE specific files
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+.vscode
 
 # System Files
 .DS_Store
